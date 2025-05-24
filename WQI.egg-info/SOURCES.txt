@@ -1,0 +1,7 @@
+README.md
+setup.py
+WQI.egg-info/PKG-INFO
+WQI.egg-info/SOURCES.txt
+WQI.egg-info/dependency_links.txt
+WQI.egg-info/requires.txt
+WQI.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: WQI
+Version: 0.1.0
+Summary: A short description of your project
+Author: Your Name
+Requires-Dist: Panda
+Requires-Dist: Numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

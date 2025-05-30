@@ -5,3 +5,7 @@ WQI.egg-info/SOURCES.txt
 WQI.egg-info/dependency_links.txt
 WQI.egg-info/requires.txt
 WQI.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
